@@ -1,6 +1,11 @@
 # ice-comparison-tool
 
-A tool built using the Python ICE Client (pyiceclient) to compare the output of ICE to another immunization forecaster.
+A tool built using the Python ICE Client (pyiceclient) to compare the
+output of ICE to another immunization forecaster.
+
+This tool is primarily intended to serve as an example for how an
+Immunization Information System might compare its existing forecaster
+to ICE.
 
 Installation
 ============
